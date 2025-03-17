@@ -9,3 +9,6 @@
  * [OBJ file](https://github.com/furuhashilab/furuhashikun/blob/main/3Ddata/furuhashikun2021.obj.zip)
  * [STL file](https://github.com/furuhashilab/furuhashikun/blob/main/3Ddata/furuhashikun2021.stl)
 
+
+# License
+© FuruhashiLab/RenAoki,TomokiFukamizu,TaichiFuruhashi, CC0
